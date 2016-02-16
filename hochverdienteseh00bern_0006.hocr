@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hochverdienteseh00bern_0006.png"; bbox 0 0 1664 1776; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 480 332 819 613">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 480 332 819 613">
+     <span class='ocr_line' id='line_1_1' title="bbox 480 332 819 613; baseline 0 1163"><span class='ocrx_word' id='word_1_1' title='bbox 480 332 819 613; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 408 758 1425 1194">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 408 758 1425 1194">
+     <span class='ocr_line' id='line_1_2' title="bbox 408 758 1376 957; baseline 0.001 -51"><span class='ocrx_word' id='word_1_2' title='bbox 408 758 1376 957; x_wconf 61' lang='lat' dir='ltr'><em>fostsoutsmap</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 445 995 1425 1194; baseline 0.001 -53"><span class='ocrx_word' id='word_1_3' title='bbox 445 1031 685 1142; x_wconf 75' lang='lat' dir='ltr'><em>not</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 738 995 1425 1194; x_wconf 65' lang='lat' dir='ltr'><em>csz&#39;gz&#39;tz&#39;zed</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
